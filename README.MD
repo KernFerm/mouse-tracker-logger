@@ -3,7 +3,10 @@
 </h1>
 
 
-- [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
+# Join the discord if you need help 
+
+[https://fnbubbles420.org/discordinvite](https://fnbubbles420.org/discordinvite)
+
 
 # 🖱️ Mouse Tracking Logger
 
